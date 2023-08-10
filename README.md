@@ -25,8 +25,8 @@
 
 ### 멤버 소개
 ---
-<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="50" height="50"/>
-![KakaoTalk_20230811_002230464]()
+<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="250" height="250"/>
+
 
 스터디 전, 각 구성원은 해당 주에 학습하는 내용에 대해 아래 내용을 준비합니다. 
 - 면접 수준의 질문과 답변
