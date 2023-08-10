@@ -25,7 +25,7 @@
 
 ### 멤버 소개
 ---
-| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
+| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/0d085db6-27cf-4900-9c63-0fbc6e1aa8b0" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
 | :---: | :---: | :---: |
 | 오윤성 | 김형주 | 한준희 |
 
