@@ -1,11 +1,5 @@
 # CS-Study
 
-
-| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
-| :---: | :---: | :---: |
-| 오윤성 | 김형주 | 한준희 |
-
-
 인하대학교 메이플 소모임 '인하대학교 단풍나무숲' 내 구성원들의 CS 전공지식 스터디 내용을 담은 저장소입니다.
 
 진행 방식
@@ -31,14 +25,9 @@
 
 ### 멤버 소개
 ---
-|:---:|:---:|:---:|
-||<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="250" height="250"/>|<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="250" height="250"/>|
-|한준희|김형주|오윤성|
-
-| ![John](https://example.com/john.jpg) | John Doe |
-| --- | --- |
-| ![Jane](https://example.com/jane.jpg) | Jane Smith |
-| ![Mike](https://example.com/mike.jpg) | Mike Johnson |
+| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
+| :---: | :---: | :---: |
+| 오윤성 | 김형주 | 한준희 |
 
 
 스터디 전, 각 구성원은 해당 주에 학습하는 내용에 대해 아래 내용을 준비합니다. 
