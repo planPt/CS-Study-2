@@ -1,10 +1,9 @@
 # CS-Study
 
-|  |  |
-|--|--|
-| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="250" height="250"/> | John Doe |
-| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="250" height="250"/> | Jane Smith |
-| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="250" height="250"/> | Jane Smith |
+
+| <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
+| --- | --- | --- |
+| 오윤성 | 김형주 | 한준희 |
 
 
 인하대학교 메이플 소모임 '인하대학교 단풍나무숲' 내 구성원들의 CS 전공지식 스터디 내용을 담은 저장소입니다.
