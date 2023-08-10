@@ -1,4 +1,4 @@
-![Since](https://img.shields.io/badge/Since-2023--08--11-blue.svg)
+![Since](https://img.shields.io/badge/Since-2023--08--10-blue.svg)
 # CS-Study
 인하대학교 메이플 소모임 '인하대학교 단풍나무숲' 내 구성원들의 기술 면접을 대비하기 위한 CS 전공지식 스터디 내용을 담은 저장소입니다.
 
