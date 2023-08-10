@@ -37,6 +37,6 @@
   
 ### 😊멤버 소개
 ---
-| [<img src="https://raw.githubusercontent.com/Inha-CS-Study/CS-Study/main/assets/42116216/dbb04eed-d8b9-415b-8c67-cf85407ee02c.jpg" width="150" height="150"/>](https://github.com/oyunseong) | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
+| [<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/c855bbd0-2992-4ebd-a74b-de764159c44c" width="150" height="150"/>](https://github.com/oyunseong) | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/> | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
 | :---: | :---: | :---: |
 | 오윤성 | 김형주 | 한준희 |
