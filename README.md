@@ -1,13 +1,11 @@
 # CS-Study
 
-![John](https://example.com/john.jpg)
-John Doe
+|  |  |
+|--|--|
+| ![John](https://example.com/john.jpg) | John Doe |
+| ![Jane](https://example.com/jane.jpg) | Jane Smith |
+| ![Mike](https://example.com/mike.jpg) | Mike Johnson |
 
-![Jane](https://example.com/jane.jpg)
-Jane Smith
-
-![Mike](https://example.com/mike.jpg)
-Mike Johnson
 인하대학교 메이플 소모임 '인하대학교 단풍나무숲' 내 구성원들의 CS 전공지식 스터디 내용을 담은 저장소입니다.
 
 진행 방식
