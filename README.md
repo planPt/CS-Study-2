@@ -34,9 +34,11 @@
    - 면접 수준의 질문과 답변
    - 꼬리 질문에 대한 대처
 - 무작위로 면접관과 면접자의 역할을 부여받아 모의 면접을 진행합니다.  
-  
+
+
+
 ### 😊멤버 소개
 ---
-| [<img src="https://raw.githubusercontent.com/Inha-CS-Study/CS-Study/main/assets/https://github.com/Inha-CS-Study/CS-Study/assets/42116216/c855bbd0-2992-4ebd-a74b-de764159c44c" width="150" height="150"/>](https://github.com/oyunseong) | [<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/>](https://github.com/oyunseong) | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
+| [<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/f63e6875-47bf-4a99-8d17-b38d99dcc520" width="150" height="150"/>](https://github.com/oyunseong) | [<img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/a75fe94e-2dd8-4806-bff4-cca69b767052" width="150" height="150"/>](https://github.com/oyunseong) | <img src="https://github.com/Inha-CS-Study/CS-Study/assets/42116216/fa71d472-e804-4498-8b0c-b8b9a1904740" width="150" height="150"/> |
 | :---: | :---: | :---: |
 | 오윤성 | 김형주 | 한준희 |
