@@ -1,5 +1,7 @@
 # MVC, MVP, MVVM
 
+모델과 뷰가 너무 많아짐에 따라 하나의 중재자-> 컨트롤러가 나옴
+
 ## MVC
 
 Model, View, Controller
@@ -27,6 +29,14 @@ HTML 웹 구현에서의 예시?
 
 인풋이 컨트롤러로
 
+단점 : 뷰와 모델 사이의 의존성이 높다. 높은 의존성은 어플리케이션이 커질수록 복잡해지고, 유지보수가 어렵다.
+
+![단점](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FAausY%2FbtrhMd9GH8p%2FSHi1qjRtb44akClxGYXFw0%2Fimg.png "단점의 시각화")
+
+참고 : [생활코딩 - MVC 디자인 패턴](https://opentutorials.org/course/697/3828)
+
+-> MVC에서 **C 가 너무 뚱뚱해진다**. 모델과 뷰가 엄청 많은 경우에
+
 ## MVP
 
 Model, View, Presenter
@@ -35,13 +45,23 @@ Presenter : Controller가 교체되었다.
 
 - 뷰와 프레젠터는 일대일 관계이다.
 
-MVC패턴에서의 의존성을 보완했다.
+MVC패턴에서의 의존성을 보완했다..?
 
 인풋이 뷰에
 
 프레젠터가 뷰와 모델 모두를 업데이트한다.
 
+-> 인터페이스 사용
+
+인터페이스 분리 원칙 생각해보면 의존성이 낮아진 이유 생각 가능
+
+-> 뷰1개에 프리젠터 1개면 **너무 비효율적이다**.  
+-> 프리젠터를 재사용을 할 수는 없을까?
+
 ## MVVM
+
+간단하게 바꾸자면  
+프리젠터를 재사용을 할 수 있게 만든 것이 VM이다.
 
 Model, View, View Model
 
@@ -60,3 +80,11 @@ CPU /메모리 /하드디스크 느낌..?
 어떤식으로 개발이 될 지
 
 데이터가 모델이라 M은 항상 들어간다.
+
+---
+
+MVC 직접적인 구현체
+
+MVP 직접적인 구현체가 아니다 , 인터페이스이다.
+
+MVVM 직접적인 구현체이다.
